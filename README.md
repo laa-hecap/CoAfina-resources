@@ -4,6 +4,8 @@
 
 Aquí encontrarás de todo: desde plataformas para alojar tu proyecto hasta herramientas de visualización de datos y APIs de IA. ¡Explora los enlaces y empieza a crear algo increíble!
 
+---
+
 ## 🌐 Alojamiento Web y Nube
 - [Infomaniak](https://www.infomaniak.com/en): Soluciones pro para hosting y nube.
 - [Proton](https://proton.me/): Email seguro, calendario y almacenamiento de archivos.
@@ -54,4 +56,10 @@ Aquí encontrarás de todo: desde plataformas para alojar tu proyecto hasta herr
 - [Sitios para Desplegar Cualquier Aplicación](https://dev.to/joselatines/sites-to-deploy-any-application-paidfree-alternatives-3em8): Alternativas pagas y gratuitas para desplegar apps.
 - [15 Alojamientos Gratuitos para Desarrolladores Front-End](https://blog.bitsrc.io/15-free-hosting-for-front-end-developers-9224bc34e14a): Guía de opciones de hosting gratuito para desarrolladores front-end.
 
-¡Explora estos recursos y lleva tu proyecto al siguiente nivel! Cada enlace te proporciona herramientas y servicios valiosos para diferentes aspectos de la tecnología y la innovación. ¡Buena suerte y diviértete creando! 🚀
+## 📝 Documentos y Colaboración
+- [Google Docs](https://www.google.com/docs/about/): Herramienta para crear, editar y compartir documentos en línea.
+
+---
+
+Cada enlace te proporciona herramientas y servicios valiosos para diferentes aspectos de la tecnología y la innovación. ¡Buena suerte y diviértete creando! 🚀
+
