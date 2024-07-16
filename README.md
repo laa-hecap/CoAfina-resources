@@ -38,21 +38,21 @@ Aquí encontrarás de todo: desde plataformas para alojar tu proyecto hasta herr
 - [Anvil](https://anvil.works/): Construye apps web solo con Python.
 - [Docker](https://www.docker.com/): Plataforma para desarrollar, enviar y ejecutar apps.
 - [DockerHub](https://hub.docker.com/): Plataforma para desarrollar, enviar y ejecutar dockers.
+
+## 🏛️ Recursos Educativos y Ejemplos
+- [Wikimedia](https://www.wikimedia.org/): Proyectos de conocimiento libre.
 - [Zenodo](https://zenodo.org/): Repositorio de datos de investigación.
 - [Academic Torrents](https://academictorrents.com/): Distribuye datos de investigación.
+- [GitHub Gobierno](https://github.com/github/government.github.com): Proyectos open-source en el gobierno.
+- [Square Open Source](https://github.com/square/square.github.io): Proyectos open-source de Square.
+- [Netflix Open Source](https://netflix.github.io/): Proyectos open-source de Netflix.
 
 ## 🔌 API e Integración
 - [Twitter API](https://developer.x.com/en/docs/twitter-api/getting-started/about-twitter-api): Accede e integra datos de Twitter.
 - [Reglas y Políticas de la API de X](https://help.x.com/en/rules-and-policies/x-api): Guías para usar la API de Twitter.
 
-## 🏛️ Recursos Educativos y Ejemplos
-- [GitHub Gobierno](https://github.com/github/government.github.com): Proyectos open-source en el gobierno.
-- [Square Open Source](https://github.com/square/square.github.io): Proyectos open-source de Square.
-- [Netflix Open Source](https://netflix.github.io/): Proyectos open-source de Netflix.
-- [Wikimedia](https://www.wikimedia.org/): Proyectos de conocimiento libre.
-- [Hackathon LACONGA](https://laconga.redclara.net/hackathon-coc/): Hackathon para colaboración e innovación en América Latina.
-
 ## 📚 Artículos y Guías
+- [Hackathon LACONGA](https://laconga.redclara.net/hackathon-coc/): Hackathon para colaboración e innovación en América Latina.
 - [Sitios para Desplegar Cualquier Aplicación](https://dev.to/joselatines/sites-to-deploy-any-application-paidfree-alternatives-3em8): Alternativas pagas y gratuitas para desplegar apps.
 - [15 Alojamientos Gratuitos para Desarrolladores Front-End](https://blog.bitsrc.io/15-free-hosting-for-front-end-developers-9224bc34e14a): Guía de opciones de hosting gratuito para desarrolladores front-end.
 
