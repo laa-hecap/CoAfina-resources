@@ -44,7 +44,7 @@ Aquí encontrarás de todo: desde plataformas para alojar tu proyecto hasta herr
 - [Twitter API](https://developer.x.com/en/docs/twitter-api/getting-started/about-twitter-api): Accede e integra datos de Twitter.
 - [Reglas y Políticas de la API de X](https://help.x.com/en/rules-and-policies/x-api): Guías para usar la API de Twitter.
 
-## 🏛️ Recursos Educativos y Gubernamentales
+## 🏛️ Recursos Educativos y Ejemplos
 - [GitHub Gobierno](https://github.com/github/government.github.com): Proyectos open-source en el gobierno.
 - [Square Open Source](https://github.com/square/square.github.io): Proyectos open-source de Square.
 - [Netflix Open Source](https://netflix.github.io/): Proyectos open-source de Netflix.
