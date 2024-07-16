@@ -18,7 +18,7 @@ Aquí encontrarás de todo: desde plataformas para alojar tu proyecto hasta herr
 - [PAWS (Wikimedia)](https://wikitech.wikimedia.org/wiki/PAWS): Notebooks Jupyter para Wikimedia.
 - [Google Colab](https://colab.google/): Notebooks Jupyter en la nube con GPU gratuita.
 - [NBViewer](https://nbviewer.org/): Visualiza notebooks Jupyter en línea.
-- [JupyterHub](https://github.com/jupyterhub/jupyterhub): Servidor de notebooks Jupyter multiusuario.
+- [MyBinder](https://mybinder.org/): Servidor de notebooks Jupyter mono-usuario.
 
 ## 📊 Visualización de Datos y Dashboards
 - [Streamlit](https://streamlit.io/#install): Convierte scripts de Python en apps interactivas.
