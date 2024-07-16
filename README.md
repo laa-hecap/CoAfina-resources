@@ -37,6 +37,7 @@ Aquí encontrarás de todo: desde plataformas para alojar tu proyecto hasta herr
 ## 🚀 Despliegue y Desarrollo de Aplicaciones
 - [Anvil](https://anvil.works/): Construye apps web solo con Python.
 - [Docker](https://www.docker.com/): Plataforma para desarrollar, enviar y ejecutar apps.
+- [DockerHub](https://hub.docker.com/): Plataforma para desarrollar, enviar y ejecutar dockers.
 - [Zenodo](https://zenodo.org/): Repositorio de datos de investigación.
 - [Academic Torrents](https://academictorrents.com/): Distribuye datos de investigación.
 
@@ -49,7 +50,6 @@ Aquí encontrarás de todo: desde plataformas para alojar tu proyecto hasta herr
 - [Square Open Source](https://github.com/square/square.github.io): Proyectos open-source de Square.
 - [Netflix Open Source](https://netflix.github.io/): Proyectos open-source de Netflix.
 - [Wikimedia](https://www.wikimedia.org/): Proyectos de conocimiento libre.
-- [Escape 2020 School 2022](https://github.com/escape2020/school2022): Recursos para el proyecto ESCAPE 2020.
 - [Hackathon LACONGA](https://laconga.redclara.net/hackathon-coc/): Hackathon para colaboración e innovación en América Latina.
 
 ## 📚 Artículos y Guías
